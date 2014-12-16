@@ -7,3 +7,5 @@ Vous trouverez toutes les informations nécessaires sur le *** WIKI ***.
 Bon amusement :D
 
 aide mémoire git : https://training.github.com/kit/downloads/fr/github-git-cheat-sheet.pdf
+
+Merci Alexandre !
